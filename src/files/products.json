@@ -2,81 +2,81 @@
   {
     "id": 2,
     "title": "rimmel",
-    "description": "KNC",
+    "description": "AIR VOLUME",
     "price": 4000,
-    "thumbnail": "parches.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/b3/44/2b/b3442b05031d00ab47bf908a6fb8aba7.jpg",
     "code": "A0002",
     "stock": 1000
   },
   {
     "id": 3,
     "title": "serum",
-    "description": "sturn",
+    "description": "SERUM GLOSSIER",
     "price": 6000,
-    "thumbnail": "serum.jpg",
+    "thumbnail": "https://i.pinimg.com/736x/5d/d3/a6/5dd3a684d7d18cfd6b87c5c7b94addea.jpg",
     "code": "A0003",
     "stock": 500
   },
   {
     "id": 4,
     "title": "mascarilla",
-    "description": "magic stripes",
+    "description": "SLEEPING MASK",
     "price": 3000,
-    "thumbnail": "mascarilla.jpg",
+    "thumbnail": "https://i.pinimg.com/736x/08/ac/ff/08acffc875b500ffa7df4ea720baf8b1.jpg",
     "code": "A0004",
     "stock": 500
   },
   {
     "id": 5,
     "title": "serum",
-    "description": "glossier",
+    "description": "GLOSSIER SUPER GLOW",
     "price": 6500,
-    "thumbnail": "glossier.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/f6/99/a7/f699a72a99072579d1198e41d0d69e65.jpg",
     "code": "A0005",
     "stock": 500
   },
   {
     "id": 6,
     "title": "exfoliante",
-    "description": "GO-TO",
+    "description": "GO-TO SCRUB",
     "price": 3000,
-    "thumbnail": "goto.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/23/ba/d6/23bad695de622d2f9601f46c0ea96a56.jpg",
     "code": "A0006",
     "stock": 500
   },
   {
     "id": 7,
     "title": "crema",
-    "description": "the ordinary",
+    "description": "GLOSSIER MOISTURIZER",
     "price": 6000,
-    "thumbnail": "url",
+    "thumbnail": "https://i.pinimg.com/564x/25/aa/f0/25aaf02a761bfbf8ba99bffa1adb244a.jpg",
     "code": "A0007",
     "stock": 500
   },
   {
     "id": 8,
     "title": "scrub",
-    "description": "knc",
+    "description": "KNC SCRUB",
     "price": 2000,
-    "thumbnail": "scrub.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/0d/ea/35/0dea357770a70cc3bbbe38f7fd7ce95d.jpg",
     "code": "A0008",
     "stock": 500
   },
   {
     "id": 9,
     "title": "limpiador",
-    "description": "GO-TO",
+    "description": "ALYA SKIN",
     "price": 4500,
-    "thumbnail": "gotocleaner.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/f4/36/07/f436076b4d04aa81407f3c011cd9d0f0.jpg",
     "code": "A0009",
     "stock": 500
   },
   {
     "id": 10,
     "title": "baby cream",
-    "description": "sturm",
+    "description": "TOO FACED",
     "price": 1500,
-    "thumbnail": "sturnbabycream.jpg",
+    "thumbnail": "https://i.pinimg.com/564x/4b/7d/b9/4b7db9773f44fc4baf54d4bd37f3ccea.jpg",
     "code": "A0010",
     "stock": 500
   }

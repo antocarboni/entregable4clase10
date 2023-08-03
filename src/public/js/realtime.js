@@ -19,20 +19,14 @@ function updateProductList(products) {
           </div>
           <div class="contentBx">
             <h2>${product.title}</h2>
-            <div class="size">
+            <div class="cantidad">
               <h3>${product.description}</h3>
               <span>7</span>
               <span>8</span>
               <span>9</span>
               <span>10</span>
             </div>
-            <div class="color">
-              <h3>${product.price}</h3>
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
-            <a href="#">Buy Now</a>
+            <a href="#">Comprar</a>
           </div>
         </div>
         
